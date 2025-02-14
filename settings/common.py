@@ -629,8 +629,8 @@ SR = {
         "url": "https://tree.taiga.io/support/",
         "email": "support@taiga.io"
     },
-    "signature": "The Taiga Team",
-    "product_name": "Taiga",
+    "signature": "Project Management",
+    "product_name": "Project Management",
 }
 
 IMPORTERS = {
